@@ -5,126 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5be7e3c-249a-4394-ab96-9e3f0687cef9" name="Changes" comment="new feed">
-      <change afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala3_library_3_3_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/scala-practice-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/scala-practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$24b177ee97caa59cbf3b$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$24b177ee97caa59cbf3b.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$24b177ee97caa59cbf3b.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$3c57c24a89106ff7372c$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$3c57c24a89106ff7372c.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$3c57c24a89106ff7372c.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$4536fb3aff0f624c5a91$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$4536fb3aff0f624c5a91.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$4536fb3aff0f624c5a91.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$4a04d4b1fa570982fe38$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$4a04d4b1fa570982fe38.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$4a04d4b1fa570982fe38.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/sync/copy-resource" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/_global/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/bspReporter/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/section1/Expressions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/section1/Functions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/section1/ValuesVariables.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/Playground.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/.history3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Expressions$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Expressions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Expressions.tasty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Functions$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Functions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Functions.tasty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/ValuesVariables$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/ValuesVariables.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/ValuesVariables.tasty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-3.1.0/classes/playground/Playground$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-3.1.0/classes/playground/Playground.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-3.1.0/classes/playground/Playground.tasty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-3.1.0/update/update_cache_3/inputs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-3.1.0/update/update_cache_3/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/_global/dumpStructure/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/input_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/output_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/inputs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Expressions$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Expressions$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Expressions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Expressions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Expressions.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Expressions.tasty" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,6 +127,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670912697554</updated>
     </task>
+    <task id="LOCAL-00001" summary="new feed">
+      <created>1670926103523</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670926103523</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,7 +142,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
