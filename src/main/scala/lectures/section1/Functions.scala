@@ -6,6 +6,7 @@
 
 package lectures.section1
 import io.Codec.string2codec
+
 object Functions extends App {
 
   def add(a: String, b :Int): Any = {
