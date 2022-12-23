@@ -1,8 +1,10 @@
-package lectures.section1
-
 /**
- * created by prasad 13-12-2022
- */
+Author: Prasad
+Date: 13-12-2022
+Topic: Expressions
+ **/
+
+package lectures.section1
 object Expressions extends App {
 
   val x = 3 + 2

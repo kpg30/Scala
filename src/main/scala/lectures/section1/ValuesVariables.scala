@@ -1,8 +1,9 @@
-package lectures.section1
-
 /**
-  * created by prasad 13-12-2022
-  */
+Author: Prasad
+Date: 13-12-2022
+Topic: Types of variables in Scala
+ **/
+package lectures.section1
 object ValuesVariables extends App {
 
   val x: Int = 42  // 'val' is Immutable
