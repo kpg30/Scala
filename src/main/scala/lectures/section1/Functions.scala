@@ -1,8 +1,9 @@
-/**
-Author: Prasad
-Date: 23-12-2022
-Topic: Functions in Scala
-**/
+/** ========================== **/
+// Author: Prasad
+// Date: 23-12-2022
+// Topic: Functions in Scala
+/**==============================**/
+
 package lectures.section1
 object Functions extends App {
 
@@ -20,6 +21,7 @@ object Functions extends App {
     else ab + aRepeatFunction(ab, bb-1)
   }
     println(aRepeatFunction("prasad", 4))
+
 
 
 }

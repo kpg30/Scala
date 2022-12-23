@@ -5,49 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5be7e3c-249a-4394-ab96-9e3f0687cef9" name="Changes" comment="new feed">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala3_library_3_3_1_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/scala-practice-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scala-practice-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/scala-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scala-practice.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$24b177ee97caa59cbf3b$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$24b177ee97caa59cbf3b.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$24b177ee97caa59cbf3b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3c57c24a89106ff7372c$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3c57c24a89106ff7372c.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3c57c24a89106ff7372c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4536fb3aff0f624c5a91$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4536fb3aff0f624c5a91.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4536fb3aff0f624c5a91.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4a04d4b1fa570982fe38$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4a04d4b1fa570982fe38.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4a04d4b1fa570982fe38.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/section1/Expressions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/section1/Expressions.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/section1/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/section1/Functions.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/section1/ValuesVariables.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/section1/ValuesVariables.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Expressions$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Expressions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Expressions.tasty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Functions$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Functions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/Functions.tasty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/ValuesVariables$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/ValuesVariables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.0/classes/lectures/section1/ValuesVariables.tasty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.0/classes/playground/Playground$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.0/classes/playground/Playground.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.0/classes/playground/Playground.tasty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/input_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +66,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Functions">
+  <component name="RunManager" selected="Application.ValuesVariables">
     <configuration name="Expressions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.section1.Expressions" />
       <module name="scala-practice" />
@@ -160,9 +121,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValuesVariables" />
         <item itemvalue="Application.Functions" />
         <item itemvalue="Application.Expressions" />
-        <item itemvalue="Application.ValuesVariables" />
         <item itemvalue="Application.Playground" />
       </list>
     </recent_temporary>
@@ -193,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670926311172</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new feed">
+      <created>1671773777054</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671773777054</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

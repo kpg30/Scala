@@ -1,8 +1,9 @@
-/**
-Author: Prasad
-Date: 13-12-2022
-Topic: Types of variables in Scala
- **/
+/** ========================== **/
+// Author: Prasad
+// Date: 13-12-2022
+// Topic: Functions in Scala
+/**==============================**/
+
 package lectures.section1
 object ValuesVariables extends App {
 
