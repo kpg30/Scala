@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e5be7e3c-249a-4394-ab96-9e3f0687cef9" name="Changes" comment="new feed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/section1/Expressions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/section1/Expressions.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/section1/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/section1/Functions.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/section1/ValuesVariables.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/section1/ValuesVariables.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ValuesVariables">
+  <component name="RunManager" selected="Application.Functions">
     <configuration name="Expressions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.section1.Expressions" />
       <module name="scala-practice" />
@@ -121,8 +119,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValuesVariables" />
         <item itemvalue="Application.Functions" />
+        <item itemvalue="Application.ValuesVariables" />
         <item itemvalue="Application.Expressions" />
         <item itemvalue="Application.Playground" />
       </list>
@@ -161,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671773777054</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new feed">
+      <created>1671774038304</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671774038304</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
