@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e5be7e3c-249a-4394-ab96-9e3f0687cef9" name="Changes" comment="new feed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/section1/Expressions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/section1/Expressions.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/section1/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/section1/Functions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/section1/ValuesVariables.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/section1/ValuesVariables.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671774038304</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new feed">
+      <created>1671777034326</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671777034326</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new feed">
+      <created>1671777386375</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671777386375</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
